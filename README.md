@@ -28,10 +28,5 @@ Because this predicts a serious disease, accuracy alone is not
 enough. A false negative is more dangerous than a false positive,
 so the model is also evaluated with a confusion matrix and recall.
 
-## How to run
-1. Clone the repo
-2. pip install -r requirements.txt
-3. Open notebooks/DiabetesProject.ipynb in Jupyter
-
 ## Tools
 Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
